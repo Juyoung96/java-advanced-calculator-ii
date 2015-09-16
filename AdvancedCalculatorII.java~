@@ -1,0 +1,16 @@
+/*
+ * Project: Advanced Calculator II
+ * Description: An exploration into "While" loops with a calculator.
+ * Name: Juyoung Lee
+ * Date: Sept 16, 2015
+ */
+
+public class AdvancedCalculatorII {
+  
+  public static void main(String[] args ) {
+    
+    
+    
+  } // end main method
+  
+} // end class
